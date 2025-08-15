@@ -15,7 +15,6 @@ repositories {
 }
 
 dependencies {
-    implementation("com.vanniktech.maven.publish:0.34.0")
     testImplementation(kotlin("test"))
 }
 
@@ -23,7 +22,7 @@ tasks.test {
     useJUnitPlatform()
 }
 kotlin {
-    jvmToolchain(21)
+    jvmToolchain(17)
 }
 
 mavenPublishing {
