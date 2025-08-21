@@ -9,12 +9,12 @@ To use the library in your project, add the dependency to your `build.gradle` fi
 ```kotlin
 // CommonMain in Kotlin Multiplatform projects
 dependencies { 
-    implementation("io.github.sebopensource:jvm-tokens:<latest-version>")
+    implementation("io.github.sebopensource:green-tokens:<latest-version>")
 }
 
 // In JVM projects
 dependencies {
-    implementation("io.github.sebopensource:jvm-tokens-jvm:<latest-version>")
+    implementation("io.github.sebopensource:green-tokens-jvm:<latest-version>")
 }
 ```
 
