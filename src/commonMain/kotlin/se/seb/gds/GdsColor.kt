@@ -29,6 +29,7 @@ enum class GdsColor {
     L3_NEUTRAL02,
     L3_NEUTRAL03,
     L3_NEUTRAL04,
+    L3_NEUTRAL05,
     L3_POSITIVE01,
     L3_POSITIVE02,
     L3_POSITIVE03,
