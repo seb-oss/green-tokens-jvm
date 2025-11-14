@@ -37,6 +37,7 @@ enum class GdsTypography {
     BODYBOOKS,
     BODYREGULARL,
     BODYREGULARM,
+    BODYREGULARS,
     BODYITALICM,
     BODYITALICS,
 }
